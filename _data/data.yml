@@ -76,8 +76,6 @@ projects:
     - name: Foo
       link: https://www.google.com
       details: |
-Development and support of different applications for DASH Financial.
-DASH Financial is a broker/dealer; they provide a suite of high-quality execution and clearing products and services designed for institutional traders.
 
   - name: Bar
       link:
